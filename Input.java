@@ -6,6 +6,6 @@ public class Input {
         int b=sc.nextInt();
 
         int sum=a+b;
-        System.err.println(sum);
+        System.out.println(sum);
     }
 }
