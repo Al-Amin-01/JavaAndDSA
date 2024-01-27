@@ -19,6 +19,7 @@ public class Strings {
         }
         System.out.println();
         String str=s.substring(0,3);
+
         System.out.println(str);
         
     }
